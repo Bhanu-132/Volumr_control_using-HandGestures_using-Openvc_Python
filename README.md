@@ -58,7 +58,7 @@ This project utilizes OpenCV in Python to control system volume using hand gestu
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/volume-control-gestures.git
+   git clone https://github.com/Bhanu-132/volume-control-gestures.git
    cd volume-control-gestures
 Install the required dependencies:
 
@@ -72,6 +72,12 @@ If you'd like to contribute to this project, please follow the contribution guid
 
 License
 This project is licensed under the MIT License.
+Demo
+![pro1](https://github.com/Bhanu-132/Volumr_control_using-HandGestures_using-Openvc_Python/assets/104009957/5e6cada0-7602-41e2-b6b2-31893209e10e)
+![pro2](https://github.com/Bhanu-132/Volumr_control_using-HandGestures_using-Openvc_Python/assets/104009957/2e4b1287-7854-4385-b7e7-43df44d7dfb8)
+![pro3](https://github.com/Bhanu-132/Volumr_control_using-HandGestures_using-Openvc_Python/assets/104009957/18324c47-1ffa-4b58-a7fa-ca7046769584)
+
+
 
 Contact
 For any questions or feedback, feel free to contact the project maintainer:
